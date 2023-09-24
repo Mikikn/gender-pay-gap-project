@@ -1,23 +1,20 @@
-# gender-pay-gap-project
+# Gender Pay Gap Project
 
+## Project Title: Analyzing the Gender Pay Gap in the Finance Sector: A Comprehensive Approach
 
-
-
-Project Title: Analyzing the Gender Pay Gap in the Finance Sector: A Comprehensive Approach
-
-Outcome 1: Develop a project plan to address the problem.
+### Outcome 1: Develop a project plan to address the problem.
 
 (a) Define the problem being addressed
 
-The project aims to analyze and understand the gender pay gap within the Banking and Finance sector in the UK. Additionally, it will investigate the potential factors contributing to this gap and recommend strategies for its reduction.
+The project aims to analyze and understand the gender pay gap within the Finance sector in the UK. Additionally, it will investigate the potential factors contributing to this gap and recommend strategies for its reduction.
 
 (b) Explain the background to the problem
 
-The Gender Pay Gap is a persistent issue globally, reflecting disparities in earnings between male and female employees. The Banking and Finance sector, being a crucial part of the UK economy, is not immune to this challenge. Understanding and addressing this gap is not only essential for achieving workplace equity but also for fostering an inclusive and thriving financial industry.
+The Gender Pay Gap is a persistent issue globally, reflecting disparities in earnings between male and female employees. The Finance sector, being a crucial part of the UK economy, is not immune to this challenge. Understanding and addressing this gap is not only essential for achieving workplace equity but also for fostering an inclusive and thriving financial industry.
 
 (c) Explain potential benefits of solving the problem
 
-Resolving the gender pay gap in the Banking and Finance sector can yield numerous advantages. Firstly, it enhances workplace equality and promotes a diverse, inclusive environment. This, in turn, fosters higher employee satisfaction, retention, and productivity. Moreover, addressing this issue positively impacts a company's reputation, making it more attractive to a broader talent pool.
+Resolving the gender pay gap in the Finance sector can yield numerous advantages. Firstly, it enhances workplace equality and promotes a diverse, inclusive environment. This, in turn, fosters higher employee satisfaction, retention, and productivity. Moreover, addressing this issue positively impacts a company's reputation, making it more attractive to a broader talent pool.
 
 (d) Compare different approaches to address the problem
 
@@ -29,7 +26,7 @@ Among the approaches mentioned, conducting regular pay audits appears to be the 
 
 (f) Plan for the steps taken to address the problem
 
-Data Collection (2 weeks): Gather gender-specific salary data from a diverse range of Banking and Finance institutions in the UK over the last five years.
+Data Collection (2 weeks): Gather gender-specific salary data from a diverse range of Finance institutions in the UK over the last five years.
 
 Data Cleaning and Preparation (1 week): Ensure data consistency, handle missing values, and address outliers to ensure accurate analysis.
 
@@ -41,4 +38,4 @@ Presentation and Dissemination (1 week): Prepare a concise, visually supported p
 
 Feedback and Iteration (1 week): Seek input from stakeholders, incorporate feedback, and refine the recommendations if necessary.
 
-By adhering to this plan, we aim to provide valuable insights and actionable recommendations to address the gender pay gap in the Banking and Finance sector, contributing to a more equitable and inclusive industry.
+By adhering to this plan, we aim to provide valuable insights and actionable recommendations to address the gender pay gap in the Finance sector, contributing to a more equitable and inclusive industry.
