@@ -3,7 +3,7 @@
 
 
 
-Project Title: Analyzing the Gender Pay Gap in the Banking and Finance Sector: A Comprehensive Approach
+Project Title: Analyzing the Gender Pay Gap in the Finance Sector: A Comprehensive Approach
 
 Outcome 1: Develop a project plan to address the problem.
 
